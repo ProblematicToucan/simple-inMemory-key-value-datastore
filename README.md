@@ -73,7 +73,7 @@ Deregistration of data.
 Validation of correct data formats.
 Error handling for duplicate keys.
 Run the unit tests using the following command:
-```cs
+```bash
 dotnet test
 ```
 
